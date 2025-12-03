@@ -1,6 +1,9 @@
 # 📱 DO:DREAM - AI기반 시각장애인 음성 학습 플랫폼
-
-![img](./img/DODREAM_main_page.png)
+<img width="1915" height="861" alt="image" src="https://github.com/user-attachments/assets/32ab3957-ffd0-4d19-b4a4-4271a6259020" />
+<img width="1918" height="862" alt="image" src="https://github.com/user-attachments/assets/1bbe0318-59cc-40ad-9534-f680101998d5" />
+<img width="1915" height="861" alt="image" src="https://github.com/user-attachments/assets/be69269a-e672-4f44-a7cc-fb46bc2e436b" />
+<img width="1915" height="861" alt="image" src="https://github.com/user-attachments/assets/4bdc7bb0-7ce2-4f58-b1aa-ba6ebb432c96" />
+<img width="1915" height="861" alt="image" src="https://github.com/user-attachments/assets/b63d3286-3005-415e-9bbe-8ef45fb32e92" />
 
 ## 프로젝트 소개
 
